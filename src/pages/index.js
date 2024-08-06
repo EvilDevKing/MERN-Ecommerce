@@ -1,0 +1,5 @@
+export { Home } from "./Home"
+export { ProductList } from "./ProductList"
+export { ProductDetail } from "./ProductDetail"
+export { PageNotFound } from "./PageNotFound"
+export { Contact, ContactIn, ContactEu, ContactUs } from "./contact"

@@ -1,5 +1,2 @@
-export { MovieList } from "./MovieList"
-export { MovieDetail } from "./MovieDetail"
-export { Search } from "./Search"
-
-export { PageNotFound } from "./PageNotFound"
+export { Home } from "./Home"
+export { Cart } from "./Cart"

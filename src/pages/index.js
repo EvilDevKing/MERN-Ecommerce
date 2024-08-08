@@ -1,5 +1,5 @@
-export { Home } from "./Home"
-export { ProductList } from "./ProductList"
-export { ProductDetail } from "./ProductDetail"
+export { MovieList } from "./MovieList"
+export { MovieDetail } from "./MovieDetail"
+export { Search } from "./Search"
+
 export { PageNotFound } from "./PageNotFound"
-export { Contact, ContactIn, ContactEu, ContactUs } from "./contact"
